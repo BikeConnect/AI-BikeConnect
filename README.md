@@ -5,7 +5,6 @@ Add images and identify the brand and type of motorcycle
 ## Table of Contents
 - [Installation](#installation)
 - [Running the Application](#running-the-application)
-  - [Using Docker](#using-docker)
   - [Using Python](#traditional-method)
 - [Usage](#usage)
 - [Contributing](#contributing)
